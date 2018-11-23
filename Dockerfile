@@ -1,6 +1,6 @@
 FROM node:9-onbuild
 
-MAINTAINER "Jero Carrizo <jero@wit.com>"
+MAINTAINER "Jero Carrizo <jero.carrizo@gmail.com>"
 
 WORKDIR /usr/src/app
 
